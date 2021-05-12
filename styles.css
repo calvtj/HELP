@@ -10214,7 +10214,7 @@ a.text-dark:focus {
 }
 
 #mainNav .navbar-brand {
-    color: #fdf1cb;
+    color: #fff;
 }
 
 #mainNav .navbar-nav {
@@ -10222,7 +10222,7 @@ a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
-    color: #fdf2cc;
+    color: #fff;
     box-shadow: #040505;
 }
 
